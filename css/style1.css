@@ -43,7 +43,6 @@ nav
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-   
 }
 
 .lien_nav 
@@ -54,8 +53,7 @@ nav
     padding: 0px 35px;
     margin-bottom: 20px;
     align-items: flex-end;
-    justify-content: center;
-    
+    justify-content: center;  
 }
 
 .lien_nav:hover 
@@ -193,7 +191,6 @@ h3
     color: #0065FC;
     cursor: pointer;
     text-shadow: 2px 2px 4px #828d9b;
-
 }
 
 .icone
@@ -315,7 +312,6 @@ h5
 .bloc_gauche h3
 {
     margin-top: -0.5%;
-
 }
 
 article p
@@ -364,7 +360,6 @@ article .fas
     width: 110px;
     min-width: 110px;
     object-fit: cover;
-
 }
 
 .bloc_droit figcaption
@@ -411,8 +406,6 @@ article .fas
     max-height: 600px;
     width: 100%;
     justify-content: space-between;
-
-    
 }
 
 #href1, #href4
@@ -527,7 +520,6 @@ footer
     margin-left: -25px;
     margin-right: -25px;
     margin-bottom: -25px;
-
 }
 
 .colonne 
@@ -670,7 +662,6 @@ footer
         align-items: center;
         width: 100%;
         margin: 0;
-        
     }
 
     .bloc_droit
@@ -765,7 +756,6 @@ footer
         width: 768px;
         margin-left: auto;
         margin-right: auto;
-    
     }
 
     .catalogue
@@ -867,6 +857,4 @@ footer
         width: 100%;
         background-color: white;
     }
-
-  
 }
